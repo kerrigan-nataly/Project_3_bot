@@ -11,7 +11,7 @@ bot = telebot.TeleBot("5114326352:AAEK9OXCA88M6N0YXl9gi37XV8nSJ7uzdC8")
 password = "aboba389"
 
 screen = "im.png"
-url = "rtsp://admin:cnhtkrb@192.168.50.139:554/channel=1&stream=1.sdp?"
+url = "rtsp://admin:cnhtkrb@192.168.50.140:554/channel=1&stream=1.sdp?"
 text_bot = "Нажмите:" \
            " 'камера', чтобы посмотреть, что сейчас на улице; \n" \
            " 'дисплей', чтобы вывести что-то на дисплей; \n" \
